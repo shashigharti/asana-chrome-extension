@@ -1,2 +1,4 @@
-## Google API
-1. Turn on google api: https://console.developers.google.com/flows/enableapi?apiid=calendar&pli=1
+## Developers Mode
+1. In chrome, Go to Developers -> extensions and enable developers mode.
+2. Click "load unpacked" button and point to the folder where chrome app is stored.
+3. The app will be installed locally.
